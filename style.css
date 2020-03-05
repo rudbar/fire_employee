@@ -1,0 +1,22 @@
+html {
+	box-sizing: border-box;
+}
+
+body {
+	background: grey;
+}
+
+#container {
+	position: relative;
+	width: 700px;
+	height: 700px;
+	background: blue;
+}
+
+#employee {
+	position: absolute;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	background: #A9A9A9;
+	max-width: 300px;
+	text-align: center;
+}
